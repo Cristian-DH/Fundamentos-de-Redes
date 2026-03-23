@@ -160,7 +160,7 @@ Backend no puede hablar con la DataBase (Base de datos)
 ## 🧪 5. Analogía (clave para explicar)
 
 - Router = Oficina de correos entre ciudades 🌍  
-- Switch = Recepcionista que sabe a quién entregar 📬  
+- Switch = Conserje que sabe a quién entregar un paquete 📬  
 - Hub = Persona que grita el mensaje a todos 📢  
 
 ---
